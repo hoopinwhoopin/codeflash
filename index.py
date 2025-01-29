@@ -13,9 +13,9 @@ word = random.choice(words)
 print("Guess the characters")
 
 guesses = ''
-turns = 12
+turns = 11
 
-while turns > 0:
+while turns > 1:
 
     failed = 0
 
